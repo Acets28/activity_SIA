@@ -1,0 +1,24 @@
+{
+  "name": "avengoza.sia",
+  "version": "1.0.0",
+  "description": "classroom activities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Acets28/activity_SIA.git"
+  },
+  "keywords": [
+    "sia",
+    "activity",
+    "sy26-27"
+  ],
+  "author": "avengoza, ralph vincent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Acets28/activity_SIA/issues"
+  },
+  "homepage": "https://github.com/Acets28/activity_SIA#readme"
+}
